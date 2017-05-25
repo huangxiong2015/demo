@@ -1,1 +1,3 @@
 test
+我是小熊熊，你是小辉辉
+Hello Word
